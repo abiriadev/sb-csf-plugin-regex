@@ -1,21 +1,19 @@
-<h1>React Latest (Vite | TypeScript)</h1>
+# React Latest (Vite | TypeScript)
 
-<p>
-  This is project generated to serve as a reproduction starter for Storybook.
-</p>
+This is project generated to serve as a reproduction starter for Storybook.
 
-<a  href="https://stackblitz.com/github/storybookjs/sandboxes/tree/next/react-vite/default-ts/after-storybook?preset=node=">
-  View it in Stackblitz
-</a>
+![View it in Stackblitz](https://stackblitz.com/github/storybookjs/sandboxes/tree/next/react-vite/default-ts/after-storybook?preset=node=)
 
-<h3>Testing instructions</h3>
+### Testing instructions
 
-<p>Install dependencies:</p>
-<pre>
-  yarn
-</pre>
+Install dependencies:
 
-<p>Run Storybook:</p>
-<pre>
-  yarn storybook
-</pre>
+```sh
+$ yarn
+```
+
+Run Storybook:
+
+```sh
+$ yarn storybook
+```
